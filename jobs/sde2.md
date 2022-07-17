@@ -31,13 +31,13 @@
 ## tips
     - setting the stage:
         - focus
-        - connection
+        - internet connection
         - eye contact camera
         - headset
         - note taking
         - remember resume
         - consider questions
-        - reach out
+        - reach out for clarity
     - responding to questions:
         - start with customer
         - multiple examples of stories
@@ -83,4 +83,18 @@
     - providing prompts and hints
         - leading you sometimes to the answer or considering something i haven't said
 
-# system design
+# system design competency
+[system design file](systemDesign.md)
+
+# Coding competencies
+
+## logical and maintainable
+[logical and maintainable file](logicalAndMaintainable.md)
+
+## data strucures and algorithms
+[DSA file](DSA.md)
+
+## Problem-solving
+[problem solving file](problemSolving.md)
+
+# Leadersship Principles Competency
