@@ -97,4 +97,35 @@
 ## Problem-solving
 [problem solving file](problemSolving.md)
 
-# Leadersship Principles Competency
+# Leadership Principles Competency
+
+## Leadership Principles
+[leadership principles file](leadershipPrinciples.md)
+- [download the star template](https://duaa2xs5z3ldn.cloudfront.net/assets/EH5MHfVk0f1VRWa0_LRX21Ro-EvUopwEW-LeadershipPrinciplesSTARtemplate.pdf)
+- star method
+    - S - Situation
+        - context and background
+        - specific event or situation
+        - previous job / school / volunteer activity
+    - T - Task
+        - what needed to be done
+        - what was the goal
+        - quantitative and qualitative
+    - A - Action
+        - what did you do
+        - keep focus on you
+        - specific steps
+        - use "I" and not "we"
+    - R - Result
+        - what were the outcomes
+        - take credit for your behavior
+        - what happened? how did you measure success?
+        - trade-offs? what did you learn
+        - metrics:
+            - cost saving
+            - revenue generation
+            - volue, size, scale
+            - % change, year to year improvements
+            - time to market, implementation time, time savings
+            - impact on customer, impact on team
+            - quality improvements
