@@ -129,3 +129,6 @@
             - time to market, implementation time, time savings
             - impact on customer, impact on team
             - quality improvements
+
+## Showcase Leadership Principles
+see examples on [link](https://www.amazon.jobs/en/software-development-interview-prep?INTCMPID=OAAJAZ100028B#/lessons/vtUiq3n_3lcfen59P5J5g9EOjUugaN0N)

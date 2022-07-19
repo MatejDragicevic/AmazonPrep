@@ -9,3 +9,59 @@
 - software engineer role with 2+ YOE:
     - [interview prep](https://www.amazon.jobs/en/software-development-interview-prep?INTCMPID=OAAJAZ100028B#/)
         - [SDE2+ notes](sde2.md)
+- programming:
+    - no specific language
+    - know syntax of choosen one
+    - know language nuances
+        - memory management
+        - collections
+        - libraries 
+- data structure:
+    - know inner workings of common DS
+    - compare and contrast their uasage
+    - know runtimes and memory of operations
+- algorithms:
+    - traversals
+    - divide and conquer
+    - bfs
+    - dfs
+    - each tradeoff(runtime, limitations, strategies)
+- coding:
+    - write syntactically correct code
+    - write with pen and paper
+    - scalable, robust, well-tested code
+- object-oriented design
+    - use best practices
+    - working knowledge of useful design patterns
+- databases
+    - know broad DB concepts and applications
+- distributed computing:
+    - service-oriented architecture
+    - map-reduce
+    - distributed caching
+    - load balancing
+- operating systems
+    - memory management
+    - processes
+    - threads
+    - synchronization
+    - paging
+    - multithreading
+- internet topics
+    - how the internet works
+    - how browsers work on high level
+    - dns lookups
+    - tcp/ip
+    - socekt connections
+    - how does www work
+- general ML and AI
+    - data-driven modeling
+    - train/test protocols
+    - error analysis
+    - statistical significance
+    - given a problem, formulate as ML and propose solution including:
+        - ideas for data sources
+        - annotation
+        - modeling approaches
+        - potential pitfalls
+    - understand basic AI/ML methods and algo
